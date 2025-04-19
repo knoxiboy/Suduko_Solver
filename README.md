@@ -1,9 +1,32 @@
-<h2>Sudoku Solver - How It Works</h2>
-This particular algorithm employs the use of backtracking, one of the more common methods to solve Sudoku puzzles.
+<h1>Sudoku Solver</h1>
+A Java-based application to solve Sudoku puzzles using a backtracking algorithm. This project demonstrates problem-solving using recursion and constraint satisfaction techniques.
 <br>
-I've written a simple algorithm to give an idea of how the program works:-
+
+
+<h3>Features</h3>
+Solves standard 9x9 Sudoku puzzles <br>
+Uses backtracking algorithm <br>
+Command-line interface for input/output <br>
+Well-structured and object-oriented Java code <br>
+
+
+<h3>Demo</h3>
+<img src="Suduko_Solver\img.jpg" alt="Output Image">
+
+
+<h3>Installation</h3>
+1. Clone the repository: <br>
+git clone https://github.com/your-username/sudoku-solver-java.git <br>
+cd sudoku-solver-java
 <br>
+2. Compile the code: <br>
+javac SudokuSolver.java
 <br>
+3. Run the program:
+<br>
+
+
+<h3>How It Works</h3>
 Start.
 <br>
 1. We start with the first empty cell.
@@ -19,3 +42,6 @@ Start.
 6. The puzzle has now been solved.
 <br>
 Stop.
+
+<h3>Contributing</h3>
+Contributions are welcome! Feel free to open issues or submit pull requests for improvements or new features.
