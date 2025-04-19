@@ -16,7 +16,7 @@ A Java-based application to solve Sudoku puzzles using a backtracking algorithm.
 
 <h3>Installation</h3>
 1. Clone the repository: <br>
-git clone https://github.com/knoxiboy/Sudoku_Solver.git <br>
+git clone https://github.com/knoxiboy/Suduko_Solver <br>
 cd Sudoku_Solver
 <br>
 2. Compile the code: <br>
