@@ -11,13 +11,13 @@ Well-structured and object-oriented Java code <br>
 
 
 <h3>Demo</h3>
-<img src="Screenshot 2025-04-16 212624.png" alt="Output Image">
+<img src="pic.jpg" alt="Output Image">
 
 
 <h3>Installation</h3>
 1. Clone the repository: <br>
-git clone https://github.com/your-username/sudoku-solver-java.git <br>
-cd sudoku-solver-java
+git clone https://github.com/knoxiboy/Sudoku_Solver.git <br>
+cd Sudoku_Solver
 <br>
 2. Compile the code: <br>
 javac SudokuSolver.java
