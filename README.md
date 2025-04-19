@@ -4,10 +4,10 @@ A Java-based application to solve Sudoku puzzles using a backtracking algorithm.
 
 
 <h3>Features</h3>
-Solves standard 9x9 Sudoku puzzles <br>
-Uses backtracking algorithm <br>
-Command-line interface for input/output <br>
-Well-structured and object-oriented Java code <br>
+*Solves standard 9x9 Sudoku puzzles <br>
+*Uses backtracking algorithm <br>
+*Command-line interface for input/output <br>
+*Well-structured and object-oriented Java code <br>
 
 
 <h3>Demo</h3>
