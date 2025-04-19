@@ -1,5 +1,4 @@
-package Projects;
-
+// Sudoku Solver using Backtracking in Java
 class SolveSudoku {
     // Function to check if a number can be placed in the given cell
     public boolean isSafe(char[][] board, int row, int col, int number) {
