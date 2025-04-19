@@ -11,7 +11,7 @@ Well-structured and object-oriented Java code <br>
 
 
 <h3>Demo</h3>
-<img src="img.jpg" alt="Output Image">
+<img src="Screenshot 2025-04-16 212624.png" alt="Output Image">
 
 
 <h3>Installation</h3>
