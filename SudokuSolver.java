@@ -1,3 +1,5 @@
+package Projects_java.Suduko_Solver;
+
 // Sudoku Solver using Backtracking in Java
 class SolveSudoku {
     // Function to check if a number can be placed in the given cell
@@ -23,7 +25,6 @@ class SolveSudoku {
         }
 
         return true;
-
     }
 
     // Function to solve the Sudoku using backtracking
